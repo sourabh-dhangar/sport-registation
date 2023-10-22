@@ -1,0 +1,40 @@
+#had{
+    color: goldenrod;
+    text-align: center;
+}
+
+.body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    background-color: black;
+    color: forestgreen;
+}
+.box{
+    max-width: 600px;
+    height: 900px;
+    margin: auto;
+}
+input{
+    background-color: black;
+    color: goldenrod;
+    padding: auto;
+    margin: 10px;
+
+}
+textarea{
+    background-color: black;
+    color: goldenrod;
+}
+#submit{
+    background-color: black;
+    color: goldenrod;
+}
+#file{
+    color: goldenrod;
+}
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+  
